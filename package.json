@@ -14,6 +14,7 @@
       "express": "^4.17.1",
       "mysql2": "^3.9.8",
       "sequelize": "^6.3.5",
-      "inquirer": "^8.2.4"
+      "inquirer": "^8.2.4",
+      "dotenv": "^8.2.0"
     }
   }
