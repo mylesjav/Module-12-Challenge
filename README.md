@@ -14,3 +14,6 @@ view department infomation
 add a role, an employee or a department
 remove a role, an employee or a department
 view the total utilized budget of a department—in other words, the combined salaries of all employees in that department
+
+https://github.com/mylesjav/module-11-challenge
+https://mylesjav.github.io/module-11-challenge/
